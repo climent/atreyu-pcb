@@ -1,6 +1,6 @@
 # atreyu-pcb
 ## Intro 
-This project is the evolution of the [Atreyu Keyboard](github.com/climent/atreyu) project, an ergonomic keyboard that was handwired only.
+This project is the evolution of the [Atreyu Keyboard](http://github.com/climent/atreyu) project, an ergonomic keyboard that was handwired only.
 
 I aimed to increase the appeal of this board by designing a PCB for it, and through the next months learned how to design one.
 

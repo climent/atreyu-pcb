@@ -4,6 +4,10 @@ This project is the evolution of the [Atreyu Keyboard](http://github.com/climent
 
 I aimed to increase the appeal of this board by designing a PCB for it, and through the next months learned how to design one.
 
+The first release of the keyboard (v0.1) is ready, and looks like this:
+
+![A picture of the Atreyu](images/atreyu-pcb-back.png?raw=true "The Atreyu keyboard")
+
 ## Want to collaborate?
 
 You can execute
